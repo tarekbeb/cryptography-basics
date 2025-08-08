@@ -1,4 +1,4 @@
-# Applied Cryptography course
+# Applied Cryptography basics
 
 ## Chapter 1: The Trap Door Function
 
